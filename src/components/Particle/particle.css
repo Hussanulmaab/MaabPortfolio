@@ -1,0 +1,5 @@
+#tsparticles{
+    position: relative;
+    z-index: -1000;
+    height: 100vh;
+}
