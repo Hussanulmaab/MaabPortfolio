@@ -15,7 +15,7 @@ const Home = () => {
       <div className="content">
         <div className="heading">
           <h1>Hi, I am Hussan ul Maab</h1>
-          <h2>A Freelancer, Developer, Designer, Hohi</h2>
+          <h2>A Freelancer, Developer, Designer</h2>
           <div className="headingMove">
           <Typewriter 
             className="typewriter"
