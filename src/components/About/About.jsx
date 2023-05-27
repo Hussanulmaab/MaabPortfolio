@@ -24,14 +24,18 @@ const About = () => {
                             letterSpacing: "1.5px",
                             textAlign : "right",
                             }}>
-                        Hi, My name is Hussan ul Maab and I have quality experience in the field of web and mobile deveopemnt as I have worked in this field for almost 2 years. I make ecommerce, portfolio, buisness websites and apps using Html5, Css, Javascript, mongo, react, express, three.js, Restful API's, Postman, Wordpress, shopify for full stack development. I can be your long awaited web-app designer and developer.
+                        Hi, My name is Hussan ul Maab and I am a Bachelor of Computer Science student from PIEAS. I possess a diverse skill set across
+                        multiple fields, including development, copywriting, and machine learning algorithms. My proficiency in the MERN
+                        stack has provided me with extensive knowledge in creating dynamic websites, while my experience in creating and
+                        deploying WordPress websites has further enhanced my expertise in this field. Additionally, I have valuable
+                        experience in creating search engine-optimized content on WordPress, which has contributed to my knowledge in
+                        content creation for online visibility.
                         My key-expertise involve the following
                         1 - Web development
+                        2 - Machine Learning Algorithms
                         2 - Database making and management
                         3 - ecommerce platform
-                        4 - graphic design
                         5 - UI/UX design
-                        6- Animated 3d Websites
                 </Typography>
             </div>
         </div>
