@@ -24,7 +24,7 @@ const About = () => {
                             letterSpacing: "1.5px",
                             textAlign : "right",
                             }}>
-                        Hi, My name is Hussan ul Maab and I am a Bachelor of Computer Science student from PIEAS. I possess a diverse skill set across
+                        Gosu, Hi, My name is Hussan ul Maab and I am a Bachelor of Computer Science student from PIEAS. I possess a diverse skill set across
                         multiple fields, including development, copywriting, and machine learning algorithms. My proficiency in the MERN
                         stack has provided me with extensive knowledge in creating dynamic websites, while my experience in creating and
                         deploying WordPress websites has further enhanced my expertise in this field. Additionally, I have valuable
